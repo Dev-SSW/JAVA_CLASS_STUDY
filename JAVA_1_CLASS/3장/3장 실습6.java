@@ -1,5 +1,5 @@
 import java.util.*;
-public class Chap4_Tast2 {
+public class Chap3_Tast2 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String eng[] = { "student" , "love" , "java"};

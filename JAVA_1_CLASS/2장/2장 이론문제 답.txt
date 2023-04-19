@@ -1,0 +1,36 @@
+1. class
+2.
+int %j
+double 1var;
+3.
+int age
+float f = 0.24f
+double d = age + f
+char c = 'a'
+String name = "name"
+4.
+79.8 double
+100 int
+3 int
+3.3333 double
+false boolean
+5.
+a>=b
+a<b && a>c
+a+3 != 10
+a >10 || a==b
+6.
+5.4
+7.
+sampleprogram.java
+public static void main(String[] args)
+8.
+옵션 1 옵션 2 옵션 3
+옵션 2 옵션 3
+옵션 3
+해당 없음
+9.
+int i = (j%2 ==0)? 10 : 20;
+10.
+switch(i)
+case 1: System.out.println("!");break;

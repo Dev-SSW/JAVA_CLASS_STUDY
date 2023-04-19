@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Chap4_Task1 {
+public class Chap3_Task1 {
 	public static void main(String[] args) {
 		int intArray[][];
 		intArray = new int[3][4];

@@ -1,0 +1,35 @@
+1.
+10보다 작은 2의 배수를 더함 , sum = 30
+i > 10
+i > 10
+
+2.
+12.2
+i < d.length
+
+3.
+char c[] =new char[10];
+int n[] = {0,1,2,3,4,5};
+char day[] = {'일','월' ... '토'};
+double d[][] = new double[5][4]
+int var[][] = {{1,2,3,4}{5,6,7,8}{9,10,11,12}};
+
+4.
+2
+
+5.
+4
+
+6.
+boolean boo : b
+
+7.
+static double[]
+return n
+double d[] = allocArray();
+
+8.
+124
+계산을 끝냅니다.
+23.5를 정수로 변환할 수 없습니다.
+계산을 끝냅니다.
