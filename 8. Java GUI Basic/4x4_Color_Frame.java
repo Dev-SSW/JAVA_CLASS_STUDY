@@ -13,7 +13,6 @@ public class Ex4_5 extends JFrame {
                 Color.BLACK, Color.ORANGE, Color.BLUE, Color.MAGENTA };
 		for(int i = 0; i < 16; i++) {
 			JLabel label = new JLabel(Integer.toString(i));
-			label = new JLabel(Integer.toString(i));
 			label.setOpaque(true);
 			label.setBackground(color[i]);
 			container.add(label);
